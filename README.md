@@ -3,8 +3,10 @@
 **Link do material:** https://fastapidozero.dunossauro.com/
 
 ## Consultas rápidas
-pyenv 3.1.1
-Poetry (version 1.8.3)
+
+**pyenv** 3.1.1
+
+**Poetry** (version 1.8.3)
 
 
 ## Aula 01 - Configurando o ambiente
