@@ -1,2 +1,2 @@
-# fast_cometa
-Estudos sobre FastAPI do zero! &lt;3
+# FastAPI do Zero
+**Link do material:** https://fastapidozero.dunossauro.com/
