@@ -2,12 +2,18 @@
 
 **Link do material:** https://fastapidozero.dunossauro.com/
 
+**Repo do meu projeto final:** https://github.com/mpdiasrosa/madr
+
+
 ## Consultas rápidas
 
-**pyenv** 3.1.1
+**pyenv** version 3.1.1
 
-**Poetry** (version 1.8.3)
+**Poetry** version 1.8.3
 
+**Python** version 3.12.4 (versão utilizada na venv)
+
+**FastAPI CLI** version 0.0.4
 
 ## Aula 01 - Configurando o ambiente
 
@@ -84,4 +90,4 @@ Para parar a execução do FastAPI: `Ctrl+C`
 
 `task test` - executa os testes
 
-`task post_test` - 
+`task post_test` - executa os testes manualmente=0olp..pol0ololol
