@@ -44,7 +44,7 @@ Foi mencionado no material que poderia ocorrer um bug intermitente no Windows du
 
 `$ cd fast_zero`
 
-`$ pyenv local 3.12.4` -> Gera o arquivo *.python-version_
+`$ pyenv local 3.12.4` -> Gera o arquivo *.python-version*
 
 Atualizar o arquivo `pyproject.toml` com a versão `python = "3.12.*"`
 
@@ -93,3 +93,7 @@ A boa prática para lidar com códigos de status é usar a classe *http.HTTPStat
 FastAPI suporte automático para **Swagger UI** e **Redoc**. Para visualizar a doc da aplicação: `task run`
 
 **Pydantic** biblioteca especializada na criação de schemas (já vem com o FastAPI), para isso criamos um arquivo `fast_zero/schemas.py`
+
+## Aula 03 - Estruturando o Projeto e Criando Rotas CRUD
+
+Criando um cadastro de pessoas
