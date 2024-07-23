@@ -18,4 +18,6 @@
 
 ### Comandos rápidos
 
+`poetry shell`
+
 `task run`

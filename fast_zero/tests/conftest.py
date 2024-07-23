@@ -1,5 +1,5 @@
-import pytest
-from fastapi.testclient import TestClient
+import pytest  # type: ignore
+from fastapi.testclient import TestClient  # type: ignore
 
 from fast_zero.app import app
 
